@@ -1,5 +1,10 @@
-### Olá, meu nome é Newton e sou um apaixonado por tecnologia, desenvolvimento e games.
-##
+### Olá, meu nome é Newton.
+
+#### Sou um apaixonado por tecnologia, desenvolvimento e games.
+
+
+:construction: README em construção :construction:
+
 - 🔭 Atualmente buscando minha recolocação no mercado de trabalho como Dev.
 - 🌱 Estudando Java.
 
