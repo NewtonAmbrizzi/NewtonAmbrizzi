@@ -29,8 +29,8 @@
 
 ---
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=NewtonAmbrizzi&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true" align="right"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewtonAmbrizzi&layout=compact&langs_count=7&theme=gruvbox_light" align="right"/>
+<img height="130" src="https://github-readme-stats.vercel.app/api?username=NewtonAmbrizzi&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true" align="right"/>
+<img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewtonAmbrizzi&layout=compact&langs_count=7&theme=gruvbox_light" align="right"/>
 
 
 ## Repositórios de Destaque
