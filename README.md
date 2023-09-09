@@ -1,12 +1,16 @@
-### Olá, meu nome é Newton.
+<img src="developer.gif" width="400px" align="right" >
 
-#### Sou um apaixonado por tecnologia, desenvolvimento e games.
+## 😃 Olá, é muito bom te receber aqui!
 
+#### Meu nome é Newton, sou Desenvolvedor Backend estudando para me tornar um Dev. Full Stack. Gosto muito de ler e estudar e estou sempre em busca de novos aprendizados, em meu tempo livre amo estar com minha família, jogar alguns games e assistir séries e filmes.
+<br>
 
-:construction: README em construção :construction:
+- 🔍 Buscando minha recolocação no mercado de trabalho.
+- 🌱 Apronfundando em Java e Spring.
+- 💻 Aperfeiçoando meu HTML, CSS e Javascript.
+- 📚 Aprendendo Angular.
 
-- 🔭 Atualmente buscando minha recolocação no mercado de trabalho como Dev.
-- 🌱 Estudando Java.
+---
 
 
 <div align="center">
